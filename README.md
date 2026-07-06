@@ -93,7 +93,6 @@ products = [
     {"id": 2, "name": "Book", "price": 14.99, "category": "books"},
     {"id": 3, "name": "Desk", "price": 199.99, "category": "furniture"},
 ]
-
 # TODO: Implement homepage route that returns a welcome message
 # TODO: Implement GET /products route that returns all products or filters by category
 # TODO: Implement GET /products/<id> route that returns a product by ID or 404
